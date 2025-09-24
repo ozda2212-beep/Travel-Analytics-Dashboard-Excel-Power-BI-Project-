@@ -37,7 +37,8 @@ It demonstrates the process of turning raw data into KPIs, dashboards, and busin
 - Customer distribution pie/bar charts.  
 - Atlantic-specific dashboards highlighting profitability and share.  
 ### Sales by Trip Type
-![Sales Distribution](reports/ff6b44ae-66ee-411f-a8aa-e5b2fbdf0286.png)
+![Sales Distribution]("C:\Users\ozda2\OneDrive\שולחן העבודה\Portfolio\BI\sales_by_trip_type.png.png")
+*The chart illustrates the percentage of sales across different trip types, showing that Trip Type D has the largest share.*
 
 ---
 
