@@ -42,6 +42,9 @@ It demonstrates the process of turning raw data into KPIs, dashboards, and busin
 )
 
 *The chart illustrates the percentage of sales across different trip types, showing that Trip Type D has the largest share.*
+![Sales Distribution](<img width="745" height="302" alt="image" src="https://github.com/user-attachments/assets/c36a861b-e45b-46a0-ac2d-9f33b124e8b3" />
+)
+As we can see, **Trip Type D** and **Trip Type B** account for the largest share of sales.
 
 ---
 
