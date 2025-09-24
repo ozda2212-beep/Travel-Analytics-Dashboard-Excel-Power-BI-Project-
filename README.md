@@ -36,6 +36,8 @@ It demonstrates the process of turning raw data into KPIs, dashboards, and busin
 - Regional and trip-type segmentation dashboards.  
 - Customer distribution pie/bar charts.  
 - Atlantic-specific dashboards highlighting profitability and share.  
+### Sales by Trip Type
+![Sales Distribution](reports/ff6b44ae-66ee-411f-a8aa-e5b2fbdf0286.png)
 
 ---
 
